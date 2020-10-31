@@ -10,7 +10,6 @@
 В результате тестирования выявлены следующие дефекты:
 
 + https://github.com/IraRogova/KeyValidator/issues/1
-+ https://github.com/IraRogova/KeyValidator/issues/2
 + https://github.com/IraRogova/KeyValidator/issues/3
 
 ## Описание процесса тестирования
