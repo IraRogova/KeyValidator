@@ -9,8 +9,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-+ https://github.com/IraRogova/KeyValidator/issues/1
-+ https://github.com/IraRogova/KeyValidator/issues/3
++ [issues1](https://github.com/IraRogova/KeyValidator/issues/1)
++ [issues3](https://github.com/IraRogova/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
@@ -19,7 +19,7 @@
 + Руководство использования KeyValidator
 + Инструкция по установке OpenJDK 11
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались данные [user-manual.md](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи: результат должен быть OK
 
