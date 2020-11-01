@@ -9,8 +9,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-+ [issues1](https://github.com/IraRogova/KeyValidator/issues/1)
-+ [issues3](https://github.com/IraRogova/KeyValidator/issues/3)
++ [Статус Fail в валидных ключах](https://github.com/IraRogova/KeyValidator/issues/1)
++ [Статус OK в невалидных ключах ](https://github.com/IraRogova/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
